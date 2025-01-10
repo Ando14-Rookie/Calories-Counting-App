@@ -1,6 +1,7 @@
 "# Calories-Counting-App" 
 
-![image](https://github.com/user-attachments/assets/9a551964-76e2-4dc4-bf7c-68115aaa030d)!    [image](https://github.com/user-attachments/assets/7aa074ca-a3b6-46c1-ae9e-fa3f41c74a58)
+![image](https://github.com/user-attachments/assets/9a551964-76e2-4dc4-bf7c-68115aaa030d)!    
+[image](https://github.com/user-attachments/assets/7aa074ca-a3b6-46c1-ae9e-fa3f41c74a58)
 
 
 
