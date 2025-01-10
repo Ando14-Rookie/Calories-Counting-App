@@ -1,6 +1,6 @@
 "# Calories-Counting-App" 
 
-<img src="https://github.com/user-attachments/assets/9a551964-76e2-4dc4-bf7c-68115aaa030d" alt="Sample Image" width="191.5" height="322.5">   <img src ="https://github.com/user-attachments/assets/111a5ab7-3fcf-43d1-8c95-3a504173a2c3" alt="Sample Image" width="191.5" height="322.5">
+<img src="https://github.com/user-attachments/assets/9a551964-76e2-4dc4-bf7c-68115aaa030d" alt="Sample Image" width="190" height="330">   <img src ="https://github.com/user-attachments/assets/111a5ab7-3fcf-43d1-8c95-3a504173a2c3" alt="Sample Image" width="190" height="330">
 
 
 
