@@ -1,6 +1,6 @@
 "# Calories-Counting-App" 
 
-![image](https://github.com/user-attachments/assets/9a551964-76e2-4dc4-bf7c-68115aaa030d) ![image](https://github.com/user-attachments/assets/111a5ab7-3fcf-43d1-8c95-3a504173a2c3)
+<img src="https://github.com/user-attachments/assets/9a551964-76e2-4dc4-bf7c-68115aaa030d"> <img src ="https://github.com/user-attachments/assets/111a5ab7-3fcf-43d1-8c95-3a504173a2c3">
 
 
 
