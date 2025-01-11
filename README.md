@@ -5,4 +5,4 @@
 
 
 
-The Nutrition Tracker App is a simple mobile application designed to help users monitor their daily dietary consumption. This program effectively stores and retrieves food data by utilizing the ROOM Database, making meal and nutrition tracking easy. By implementing SQL, it ensures a stable and responsive experience by managing and querying data. Additionally, LiveData is used to track and display the calorie count.
+The Calories Counting App is a simple mobile application designed to help users monitor their daily dietary consumption. This program effectively stores and retrieves food data by utilizing the ROOM Database, making meal and nutrition tracking easy. By implementing SQL, it ensures a stable and responsive experience by managing and querying data. Additionally, LiveData is used to track and display the calorie count.
